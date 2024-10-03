@@ -43,3 +43,14 @@ cor.test(x, y)
 y_pred2 <- predict(mod, data.frame(x=1.5))
 
 y_pred2
+
+############
+
+sqrt(0.1923)
+
+
+m <- 0.0658
+b <- 11.798
+x <- 647.1
+
+m*x +b
